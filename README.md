@@ -9,7 +9,7 @@
 2、创建并配置.vimrc文件
 
 ```
-"检测文件类型                                                                                                                        
+"检测文件类型
 filetype off 
 
 set rtp+=~/.vim/bundle/Vundle.vim
@@ -20,7 +20,7 @@ Plugin 'VundleVim/Vundle.vim'
 
 "my Bundle here:
 " original repos on github  username/pluginname
-"
+
 
 call vundle#end()
 
@@ -43,5 +43,10 @@ $ vim
 ```
 
 然后在命令行运行:PluginInstall
+
+
+安装Nerdtree插件
+![Nerdtree-installer](https://photo.tuchong.com/1294940/f/14374447.webp)
+
 
 
