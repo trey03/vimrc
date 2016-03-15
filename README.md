@@ -44,9 +44,19 @@ $ vim
 
 然后在命令行运行:PluginInstall
 
+## 安装[Nerdtree] (https://github.com/scrooloose/nerdtree)插件 
 
-安装Nerdtree插件
-![Nerdtree-installer](https://photo.tuchong.com/1294940/f/14374447.webp)
+1、在.vimrc增加下面配置
 
+`Plugin 'scrooloose/nerdtree'`
 
+2、再次运行:PluginInstall
+
+安装Nerdtree插件后界面
+
+![Nerdtree-installer](http://ww4.sinaimg.cn/mw690/539f0eb5gw1f1xnnperoxj20oj0cptcz.jpg)
+
+3、Nerdtree快捷键
+
+## 更多参考[.vimrc](https://github.com/trey03/vimrc/blob/master/.vimrc) 文件 
 
