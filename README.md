@@ -1,8 +1,8 @@
 ## 通过Vundle.vim来管理插件 
 
-## 安装[Vundle(https://github.com/VundleVim/Vundle.vim)]
+## 安装[Vundle] (https://github.com/VundleVim/Vundle.vim)
 
-1、下载[Vundle]到本地home上当下
+1、下载Vundle到本地home上当下
 
 `$ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
 
@@ -34,7 +34,7 @@ filetype plugin on
 filetype plugin indent on
 ```
 
-3、加载[Vundle]
+3、加载Vundle
 
 打开vim
 
