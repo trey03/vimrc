@@ -56,7 +56,15 @@ $ vim
 
 ![Nerdtree-installer](http://ww4.sinaimg.cn/mw690/539f0eb5gw1f1xnnperoxj20oj0cptcz.jpg)
 
-3、Nerdtree快捷键
+3、Nerdtree操作：
+
+* : h Nerdtree  打开帮助文档
+* : Nerdtree 打开目录树
+* j k 来上下选择目录或文件 
+* o 打开选择的目录或文件
+* t/T 在新的tab打开文件
+* q 关闭目录树
+* ctrl + w w  窗口切换
 
 ## 更多参考[.vimrc](https://github.com/trey03/vimrc/blob/master/.vimrc) 文件 
-
+ 
